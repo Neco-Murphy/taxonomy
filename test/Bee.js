@@ -33,3 +33,4 @@ describe('Bee class functionality', function() {
   });
 
 });
+
